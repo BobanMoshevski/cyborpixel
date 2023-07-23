@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #191919;
+  font-family: "Futura New", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.font-color {
+  color: #fff;
+}
+
+.figures-animate {
+  background: linear-gradient(0deg, rgba(25, 25, 25, 0.1), rgba(0, 0, 0, 1));
+  position: absolute;
+  width: 100%;
+  height: 110vh;
+  overflow: hidden;
+}
+
+/* Responsive */
+@media screen and (max-width: 1391px) {
+  .figures-animate {
+    height: 100vh;
+  }
+}
+
+@media screen and (max-width: 1025px) {
+  .heading {
+    font-size: 1.8rem !important;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .heading {
+    font-size: 1.6rem !important;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .heading {
+    font-size: 1.1rem !important;
+  }
+}
+
+@keyframes desktopTopFigure1 {
+  from {
+    transform: translateX(-1000px);
+  }
+  to {
+    transform: translateX(820px);
+  }
+}
+
+@keyframes desktopTopFigure2 {
+  from {
+    transform: translateX(-1200px);
+  }
+  to {
+    transform: translateX(1300px);
+  }
+}
+
+@keyframes desktopTopFigure3 {
+  from {
+    transform: translateY(-3100px);
+  }
+  to {
+    transform: translateY(1290px);
+  }
+}
+
+@keyframes desktopTopFigure4 {
+  from {
+    transform: translateY(-300px);
+  }
+  to {
+    transform: translateY(-2700px);
+  }
+}
+
+@keyframes desktopTopFigure5 {
+  from {
+    transform: translateX(1820px);
+  }
+  to {
+    transform: translateX(-1000px);
+  }
+}
+
+@keyframes tabletTopFigure1 {
+  from {
+    transform: translateX(-330px);
+  }
+  to {
+    transform: translateX(290px);
+  }
+}
+
+@keyframes tabletTopFigure2 {
+  from {
+    transform: translateX(-330px);
+  }
+  to {
+    transform: translateX(970px);
+  }
+}
+
+@keyframes tabletTopFigure3 {
+  from {
+    transform: translateY(-900px);
+  }
+  to {
+    transform: translateY(1810px);
+  }
+}
+
+@keyframes tabletTopFigure4 {
+  from {
+    transform: translateY(-510px);
+  }
+  to {
+    transform: translateY(-1090px);
+  }
+}
+
+@keyframes tabletTopFigure5 {
+  from {
+    transform: translateX(1200px);
+  }
+  to {
+    transform: translateX(1000px);
+  }
+}

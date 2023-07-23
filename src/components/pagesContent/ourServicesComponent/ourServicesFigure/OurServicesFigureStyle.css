@@ -1,0 +1,211 @@
+/* Media queris */
+@media screen and (max-width: 1840px) {
+  .our-services-figure {
+    margin-left: 17% !important;
+  }
+}
+
+@media screen and (max-width: 1700px) {
+  .our-services-figure {
+    margin-left: 10% !important;
+  }
+}
+
+@media screen and (max-width: 1541px) {
+  .our-services-figure {
+    margin-left: 2% !important;
+  }
+}
+
+@media screen and (max-width: 1441px) {
+  .our-services-figure {
+    margin-left: -3% !important;
+    margin-top: 1400px !important;
+  }
+
+  .services-figure {
+    margin-left: -3% !important;
+    margin-top: -300px !important;
+  }
+}
+
+@media screen and (max-width: 1370px) {
+  .our-services-figure {
+    margin-left: -8% !important;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .our-services-figure {
+    margin-left: -14% !important;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .our-services-figure {
+    margin-left: -23% !important;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .our-services-figure {
+    margin-left: -29% !important;
+  }
+}
+
+@media screen and (max-width: 1090px) {
+  .our-services-figure {
+    margin-left: -34% !important;
+  }
+}
+
+@media screen and (max-width: 1060px) {
+  .our-services-figure {
+    margin-left: -38% !important;
+  }
+}
+
+@media screen and (max-width: 1025px) {
+  .our-services-figure {
+    width: 1900px !important;
+    height: 700px !important;
+    margin-left: -25% !important;
+    margin-top: 1300px !important;
+  }
+
+  .services-figure {
+    margin-left: -26% !important;
+    margin-top: -250px !important;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  .our-services-figure {
+    width: 1600px !important;
+    margin-left: -10% !important;
+  }
+}
+
+@media screen and (max-width: 930px) {
+  .our-services-figure {
+    margin-left: -16% !important;
+    margin-top: 1350px !important;
+  }
+
+  .services-figure {
+    margin-top: -250px !important;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .our-services-figure {
+    width: 1550px !important;
+    margin-left: -20% !important;
+    margin-top: 1400px !important;
+  }
+
+  .services-figure {
+    margin-top: -250px !important;
+  }
+}
+
+@media screen and (max-width: 840px) {
+  .our-services-figure {
+    width: 1450px !important;
+    margin-left: -21% !important;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .our-services-figure {
+    width: 1350px !important;
+    margin-left: -22% !important;
+    margin-top: 1450px !important;
+  }
+
+  .services-figure {
+    margin-top: -250px !important;
+  }
+}
+
+@media screen and (max-width: 710px) {
+  .our-services-figure {
+    width: 1200px !important;
+    margin-left: -18% !important;
+    margin-top: 1500px !important;
+  }
+
+  .services-figure {
+    margin-top: -250px !important;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .our-services-figure {
+    margin-left: -27% !important;
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .our-services-figure {
+    width: 1100px !important;
+    margin-left: -27% !important;
+    margin-top: 1550px !important;
+  }
+
+  .services-figure {
+    margin-top: -250px !important;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .our-services-figure {
+    width: 900px !important;
+    margin-left: -12% !important;
+  }
+}
+
+@media screen and (max-width: 490px) {
+  .our-services-figure {
+    margin-left: -24% !important;
+    margin-top: 1650px !important;
+  }
+
+  .services-figure {
+    margin-top: -250px !important;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .our-services-figure {
+    height: 500px !important;
+    margin-left: -29% !important;
+    margin-top: 1750px !important;
+  }
+
+  .services-figure {
+    margin-top: -150px !important;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .our-services-figure {
+    margin-left: -32% !important;
+    margin-top: 1850px !important;
+  }
+
+  .services-figure {
+    margin-top: -150px !important;
+  }
+}
+
+@media screen and (max-width: 376px) {
+  .our-services-figure {
+    margin-left: -39% !important;
+    margin-top: 2050px !important;
+  }
+
+  .services-figure {
+    margin-top: -150px !important;
+  }
+}
